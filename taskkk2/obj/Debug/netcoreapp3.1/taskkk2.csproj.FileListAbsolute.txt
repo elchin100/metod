@@ -1,0 +1,14 @@
+C:\Users\Elchin\source\repos\taskkk2\taskkk2\bin\Debug\netcoreapp3.1\taskkk2.exe
+C:\Users\Elchin\source\repos\taskkk2\taskkk2\bin\Debug\netcoreapp3.1\taskkk2.deps.json
+C:\Users\Elchin\source\repos\taskkk2\taskkk2\bin\Debug\netcoreapp3.1\taskkk2.runtimeconfig.json
+C:\Users\Elchin\source\repos\taskkk2\taskkk2\bin\Debug\netcoreapp3.1\taskkk2.runtimeconfig.dev.json
+C:\Users\Elchin\source\repos\taskkk2\taskkk2\bin\Debug\netcoreapp3.1\taskkk2.dll
+C:\Users\Elchin\source\repos\taskkk2\taskkk2\bin\Debug\netcoreapp3.1\taskkk2.pdb
+C:\Users\Elchin\source\repos\taskkk2\taskkk2\obj\Debug\netcoreapp3.1\taskkk2.csproj.AssemblyReference.cache
+C:\Users\Elchin\source\repos\taskkk2\taskkk2\obj\Debug\netcoreapp3.1\taskkk2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elchin\source\repos\taskkk2\taskkk2\obj\Debug\netcoreapp3.1\taskkk2.AssemblyInfoInputs.cache
+C:\Users\Elchin\source\repos\taskkk2\taskkk2\obj\Debug\netcoreapp3.1\taskkk2.AssemblyInfo.cs
+C:\Users\Elchin\source\repos\taskkk2\taskkk2\obj\Debug\netcoreapp3.1\taskkk2.csproj.CoreCompileInputs.cache
+C:\Users\Elchin\source\repos\taskkk2\taskkk2\obj\Debug\netcoreapp3.1\taskkk2.dll
+C:\Users\Elchin\source\repos\taskkk2\taskkk2\obj\Debug\netcoreapp3.1\taskkk2.pdb
+C:\Users\Elchin\source\repos\taskkk2\taskkk2\obj\Debug\netcoreapp3.1\taskkk2.genruntimeconfig.cache
